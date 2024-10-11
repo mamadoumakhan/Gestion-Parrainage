@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./env/Scripts/api_parrainage"
+    ]
+}
